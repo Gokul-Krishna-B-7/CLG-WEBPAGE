@@ -1,0 +1,13 @@
+form{
+    width: 45%;
+    margin: auto;
+    border: 5px solid black;
+    padding-top: 100px;
+    padding-left: 300px;
+}
+
+h1{
+    color: brown;
+    text-align: center;
+    font-family: Copperplate, Papyrus, fantasy;
+}
